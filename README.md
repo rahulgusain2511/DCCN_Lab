@@ -1,7 +1,5 @@
 # Computer Networks Lab Work
 
-![Computer Networks](https://your-image-url.com)
-
 ## Description
 
 Welcome to the Computer Networks Lab Work repository! This repository contains lab assignments, projects, and practical exercises related to the subject of Computer Networks. The main focus of this course is to explore the fundamental concepts, protocols, and technologies that underpin computer networks and the internet.
